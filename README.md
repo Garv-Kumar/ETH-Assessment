@@ -85,4 +85,4 @@ You run this program, you can use Remix, an online Solidity IDE. To get started,
 - Garv Kumar (garvkumar287@gmail.com)
 
 ## License
-This contract is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
+This contract is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
